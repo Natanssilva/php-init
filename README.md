@@ -1,7 +1,7 @@
 # php-init
 php-curso
 
---escopo de variaveis
+-ESCOPO DE VARIAVEIS
 
 - variaveis definidas no script por padrao são globais
 - variaveis definidas dentro de uma função por exemplo são locais e só existem dentro de determinada função
